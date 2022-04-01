@@ -19,7 +19,7 @@ def hello():
     <title>Home Page - my blog</title>
     </head>
     <body>
-        <h1> Welcome { name["username"]}</h1>
+        <h1> Welcome { name["username"]}!</h1>
         <p><a href="https://www.google.com">not google</a></p>
 
 <ul>
